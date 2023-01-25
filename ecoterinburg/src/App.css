@@ -1,0 +1,6 @@
+.App {
+  font-family: 'Manrope';
+  /* background-image: url(/public/img/back.png); */
+  z-index: 10;
+  background-size: 150%;
+}
