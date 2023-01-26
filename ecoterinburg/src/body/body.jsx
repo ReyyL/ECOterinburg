@@ -54,7 +54,7 @@ export default function Body() {
     
     return (
         <div className="body">
-            <div className="btn-up btn-up_hide" onClick={() => scrollToTop()}></div>
+            {/* <div className="btn-up btn-up_hide" onClick={() => scrollToTop()}></div> */}
             <div className="upper">
                 <div className="body1">
                     
